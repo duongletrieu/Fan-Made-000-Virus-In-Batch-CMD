@@ -1,2 +1,1 @@
-# Billion-Laughs-XML-DoS-Attack
-A Very Simple Example Of the XML Bomb (Billion Laughs DoS Attack) 
+#Fan-Made 000 Virus in Batch/CMD
